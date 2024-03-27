@@ -2,7 +2,7 @@
 import inquirer from "inquirer";
 import chalk from 'chalk';
 function openScreen() {
-    for (let i = 0; i < 800; i++) {
+    for (let i = 0; i < 200; i++) {
         for (let i = 0; i < 10; i++) {
             console.log(" ".repeat(Math.floor(Math.random() * 100)), chalk.greenBright(Math.floor(Math.random() * 10)));
         }
