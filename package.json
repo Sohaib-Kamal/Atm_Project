@@ -1,7 +1,7 @@
 {
   "name": "sohaib-kamal-atm-project",
-  "version": "1.0.0",
-  "description": "A ATM project using Typecript",
+  "version": "1.0.1",
+  "description": "An ATM project using Typecript",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
